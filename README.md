@@ -1,4 +1,4 @@
-# Rey_MobilProje
+# REY_MobilProje
 <br/> 
 <br/> 
 1.	RAİF AKYOL, G191210017
