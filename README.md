@@ -1,6 +1,5 @@
 # REY_MobilProje
-<br/> 
-<br/> 
+<br/>
 1.	RAİF AKYOL, G191210017
 <br/> 
 https://github.com/raifakyol
